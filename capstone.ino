@@ -14,7 +14,8 @@ DHT dht(7, DHT22);
 
 SoftwareSerial BT() //tx,rx 
 int soilHumidity;
-/*디지털핀 초기화하기*/
+
+//디지털핀 초기화하기
 void initPin() {
   
   pinMode(R, OUTPUT);
@@ -26,6 +27,8 @@ void initPin() {
   digitalWrite(B, LOW);
 
 }
+
+//온습도센서 출력
 void dht_value(){
   float h = dht.readHumidity();
   float t = dht.readTemperature();
@@ -35,11 +38,14 @@ void dht_value(){
   Serial.println(t);
   delay(1000);
 }
+
+//lcd 초기화면
 void introLcd() {
   lcd.print("Cap stone");
 }
 
-/*void printLcd() {
+//토양습도 확인 및 lcd출력
+void printLcd() {
   //lcd.init();
   lcd.clear();
   lcd.backlight();
@@ -53,9 +59,9 @@ void introLcd() {
   else if(soilHumidity < 90) lcd.print("Soil is Wet");
   else lcd.print("Enough Water");
   
-}*/
+}
 
-/*LCD 초기화하기*/
+//LCD 초기화하기
 void initLcd() {
   lcd.init();
   lcd.backlight();
@@ -63,7 +69,7 @@ void initLcd() {
   introLcd();
 }
 
-/*토양습도 계산하기*/
+//토양습도 계산하기
 void calcSoilHumidity() {
   soilHumidity = map(analogRead(A_SOIL_HUMI), 1000, 400, 0, 100);
   /*Serial.print("hum:");
@@ -72,6 +78,7 @@ void calcSoilHumidity() {
   else if(soilHumidity < 0) soilHumidity = 0;
 }
 
+//led출력
 void LED() {
   digitalWrite(R, HIGH);
   digitalWrite(G, LOW);
@@ -79,7 +86,6 @@ void LED() {
 }
 
 void setup() {
-  //initPin();
   initLcd();
   dht.begin();
   delay(2000);
@@ -93,12 +99,16 @@ void loop() {
   dht_value();
   calcSoilHumidity();
   
-  //printLcd();
+  printLcd();
+  
+  //조도센서 값 불러오기
   int lg=analogRead(A0);
-
-  if(lg<300){
+   //조도센서
+  if(lg<600 && lg>500){
     initPin();
   }
+  
+  //토양습도 확인 및 수중펌프 
   if (soilHumidity < 20) 
     {
       delay(300);
