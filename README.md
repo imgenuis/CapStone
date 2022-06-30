@@ -15,7 +15,7 @@
   <a></a>
   <h4>사용된 물품</h4>
   <a>센서(DHT11, LED, soil moisture sensor, water pump, HC-05, Photo Resistor)</a> <br>
-  <a>선반 등</a>
+  <a>기타 기자재(선반, 책상) 등</a>
   
   <h3>수행 추진 일정</h3>
   <a>3/24~3/31 : 재료 구입 및 자료 수집 아이디어 상세화</a><br>
