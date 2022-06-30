@@ -30,7 +30,7 @@
   
   <h3>사용자 수행 흐름도</h3>
   <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%ED%96%89%20%ED%9D%90%EB%A6%84%EB%8F%84">흐름도</a>
-  <h3>프로젝트 추진 결과</h3>
-  <a></a>
+  <!--<h3>프로젝트 추진 결과</h3>
+  <a></a>-->
   <h3>결과 및 발표 자료</h3>
    <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%20%EB%B0%8F%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">발표자료</a>
