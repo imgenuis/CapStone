@@ -21,6 +21,7 @@
 
 <h3>한수호</h3>
 <a><b>역할</b></a><br>
+<a>아두이노 코드 제작</a>
 <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
 
