@@ -14,7 +14,7 @@
   <a>아두이노</a>
   <a></a>
   <h4>사용된 물품</h4>
-  <a>센서(DHT11, LED, soil moisture sensor, water pump, HC-05)</a> <br>
+  <a>센서(DHT11, LED, soil moisture sensor, water pump, HC-05, Photo Resistor)</a> <br>
   <a>선반 등</a>
   
   <h3>수행 추진 일정</h3>
