@@ -18,7 +18,12 @@
   <a>선반 등</a>
   
   <h3>수행 추진 일정</h3>
-  <a></a>
+  <a>3/24~3/31 : 재료 구입 및 자료 수집 아이디어 상세화</a><br>
+  <a>4/1~4/15 : 작품 설게도 및 구상도, 알고리즘 작성</a><br>
+  <a>4/17~5/2 : 외형제작, 회로 설계 화면 구현</a><br>
+  <a>5/2~6/5 : 아두이노와 어플리케이션 링크 & 구축</a><br>
+  <a>6/7~6/23 : 태양광패널 연결,  데이터베이스 & 어플리케이션 & 아두이노 연결</a><br>
+  <a>6/24~6/30 : 프로젝트 결과물 유지 보수 및 개선</a>
   
   <h3>프로젝트 상세 소개</h3>
   <a href="https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce">Project Introduce</a>
@@ -26,6 +31,6 @@
   <h3>사용자 수행 흐름도</h3>
   <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%ED%96%89%20%ED%9D%90%EB%A6%84%EB%8F%84">흐름도</a>
   <h3>프로젝트 추진 결과</h3>
-  
+  <a></a>
   <h3>결과 및 발표 자료</h3>
    <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%20%EB%B0%8F%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">Final </a>
