@@ -24,7 +24,7 @@
   <a href="https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce">Project Introduce</a>
   
   <h3>사용자 수행 흐름도</h3>
-  
+  <a href="">흐름도</
   <h3>프로젝트 추진 결과</h3>
   
   <h3>결과 및 발표 자료</h3>
