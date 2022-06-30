@@ -115,13 +115,14 @@ void loop() {
   calcSoilHumidity();
   
   //printLcd();
-
+  
   int lg=analogRead(A0);
-
+  //조도센서를 통한 빛 감지
+  //장마 & 구름 등으로 인해 어두워 졌을 경우 LED 점등
   if(lg<600 && lg>500){
     initPin();
   }
-  
+  //토양의 습도가 부족하다면 물을 공급
   if (soilHumidity < 20) 
     {
       delay(300);
