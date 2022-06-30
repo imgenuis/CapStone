@@ -21,7 +21,7 @@
   <a></a>
   
   <h3>프로젝트 상세 소개</h3>
-  [프로젝트 상세 소개](https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce)
+  #[프로젝트 상세 소개](https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce)
   
   <h3>사용자 수행 흐름도</h3>
   
