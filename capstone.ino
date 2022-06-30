@@ -110,8 +110,9 @@ void setup() {
 }
 
 void loop() {
+  //온습도 값 불러오기
   dht_value();
-  
+  //토양습도 값 불러오기
   calcSoilHumidity();
   
   //printLcd();
