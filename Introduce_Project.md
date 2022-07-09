@@ -29,9 +29,11 @@
 3. 소득 증대
 
 <h2>구조도</h2>
+
 ![그림1](https://user-images.githubusercontent.com/88388142/178112178-99e3715a-759d-4774-9a4b-5809c9c9af22.png)
 
 <h2>ERD</h2>
+
 ![그림2](https://user-images.githubusercontent.com/88388142/178112222-f6e04ec5-1c1c-40e6-9ae0-f5b3a5b10312.png)
 
 
