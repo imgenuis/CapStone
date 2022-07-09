@@ -26,11 +26,47 @@
   <a>6/24~6/30 : 프로젝트 결과물 유지 보수 및 개선</a>
   
   <h3>프로젝트 상세 소개</h3>
-  <a href="https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce">Project Introduce</a>
+  <!--<a href="https://github.com/imgenuis/Capstone/blob/831b0b3ee512a012aa2dc91abcc8171879e2addb/Project_Introduce">Project Introduce</a>-->
+  **ICT**(정보 통신 기술) ,**GT**(녹색기술)이 접합된 스마트팜의 전력 소비량이 많기에 
+스마트팜에 태양전지판을 추가하여 솔라팜을 만들었습니다 
+
+사물인터넷(IoT)과 인공지능 기술이 접목되어 농장의 온/습도, 일조량, 이산화탄소,
+태양광 발전량을 측정
+그 결과에 따라 적절한 환경을 조성 PC나 스마트폰으로 실시간 원격 관리가 가능합니다
+
+기존에는 농부가 경험적으로 이 정도의 물을 주면 토마토가 잘 자라겠구나 해서 물을 주곤 했으나
+기후와 날씨의 영향을 받아 물을 더 필요로 할수있으므로 
+위과 같이 환경에 따라 식물이 필요로 하는 요소를 측정해서 공급함
+
+비닐하우스 및  개방형 농가와 다르게 형광등과 같은 인공광(LED)을 사용하여
+기후 등 외부 영향을 완벽히 차단하여 식물 성장과 관련한 모든 조건을 인위적으로 통제할수있다
+
+노동·에너지 등 투입 요소의 최적 사용을 통해 우리 농업의 경쟁력 향상되며
+단순한 노동력 절감을 넘어서 농작업의 시간적·공간적 구속에서 자유롭다
+
+## 일반농가
+
+1. 노동강도 높음
+2. 노동시간 많음
+3. 소득이 낮음
+
+## 스마트팜
+
+1. 생산량 증가
+2. 연중 농업
+3. 소득 증대
   
-  <h3>사용자 수행 흐름도</h3>
-  <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%ED%96%89%20%ED%9D%90%EB%A6%84%EB%8F%84">흐름도</a>
-  <!--<h3>프로젝트 추진 결과</h3>
-  <a></a>-->
-  <h3>결과 및 발표 자료</h3>
-   <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%20%EB%B0%8F%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">발표자료</a>
+<h3>사용자 수행 흐름도</h3>
+<!--<a href="https://github.com/imgenuis/Capstone/tree/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%ED%96%89%20%ED%9D%90%EB%A6%84%EB%8F%84">흐름도</a>-->
+<h2>구조도</h2>
+
+![그림1](https://user-images.githubusercontent.com/88388142/178112178-99e3715a-759d-4774-9a4b-5809c9c9af22.png)
+
+<h2>ERD</h2>
+
+![그림2](https://user-images.githubusercontent.com/88388142/178112222-f6e04ec5-1c1c-40e6-9ae0-f5b3a5b10312.png)
+
+<!--<h3>프로젝트 추진 결과</h3>
+<a></a>-->
+<h3>결과 및 발표 자료</h3>
+ <a href="https://github.com/imgenuis/Capstone/tree/main/%EC%B5%9C%EC%A2%85%20%EA%B2%B0%EA%B3%BC%20%EB%B0%8F%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C">발표자료</a>
