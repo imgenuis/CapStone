@@ -56,13 +56,13 @@
 2. 연중 농업
 3. 소득 증대
   
-<h3>사용자 수행 흐름도</h3>
+<h2>사용자 수행 흐름도</h2>
 <!--<a href="https://github.com/imgenuis/Capstone/tree/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%88%98%ED%96%89%20%ED%9D%90%EB%A6%84%EB%8F%84">흐름도</a>-->
-<h2>구조도</h2>
+<h3>구조도</h3>
 
 ![그림1](https://user-images.githubusercontent.com/88388142/178112178-99e3715a-759d-4774-9a4b-5809c9c9af22.png)
 
-<h2>ERD</h2>
+<h3>ERD</h3>
 
 ![그림2](https://user-images.githubusercontent.com/88388142/178112222-f6e04ec5-1c1c-40e6-9ae0-f5b3a5b10312.png)
 
