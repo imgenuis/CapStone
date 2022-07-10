@@ -1,5 +1,4 @@
-<h1></h1>
-Team<br>
+<h1>Team<br></h1>
 송스톤
 
 
