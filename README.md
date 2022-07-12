@@ -32,7 +32,7 @@
 <a>아두이노 코드 제작</a><br>
 <a>외형 설계</a>
 <a>깃허브 제작</a><br>
-<br><img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
+<img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
 <h2>프로젝트 개요</h2>
   <h3>프로젝트 주제</h3>
