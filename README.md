@@ -12,6 +12,7 @@
 <img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <a>발표자료 제작</a><br>
+<a>초기 프로토타입 제작</a><br>
 <img src="https://img.shields.io/badge/minjuns449@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
 
 <h3>송종백</h3>
@@ -23,6 +24,7 @@
 <h3>이진환</h3>
 <img src="https://user-images.githubusercontent.com/88388142/178379714-35583f73-54f0-4846-aa0c-3e334925b4b6.jpg" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
+<a>초기 프로토타입 제작</a><br>
 <a>발표자료 제작</a><br>
 <img src="https://img.shields.io/badge/chilgogljh@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
@@ -30,8 +32,9 @@
 <img src="https://user-images.githubusercontent.com/88388142/178379746-a1a8fa3b-331d-4325-816c-9e3cdc947de3.jpg" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <a>아두이노 코드 제작</a><br>
-<a>외형 설계</a>
+<a>외형 설계</a><br>
 <a>깃허브 제작</a><br>
+<a>외형 제작 및 설게</a><br>
 <img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
 <h2>프로젝트 개요</h2>
