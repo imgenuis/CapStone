@@ -2,11 +2,11 @@
 
 <h2>팀 소개</h2>
 <table>
- <img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"> 
- <img src="https://user-images.githubusercontent.com/88388142/178379444-033105b3-42a4-4626-977d-8008c14f844e.jpg" width="20%" height="30%">
- <img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%">
- <img src="https://user-images.githubusercontent.com/88388142/178379714-35583f73-54f0-4846-aa0c-3e334925b4b6.jpg" width="20%" height="30%">
- <img src="https://user-images.githubusercontent.com/88388142/178379746-a1a8fa3b-331d-4325-816c-9e3cdc947de3.jpg" width="20%" height="30%">
+ <img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"> <a>홍준혁(팀장)</a>
+ <img src="https://user-images.githubusercontent.com/88388142/178379444-033105b3-42a4-4626-977d-8008c14f844e.jpg" width="20%" height="30%"> <a>송종백</a>
+ <img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%"> <a>신민준</a>
+ <img src="https://user-images.githubusercontent.com/88388142/178379714-35583f73-54f0-4846-aa0c-3e334925b4b6.jpg" width="20%" height="30%"> <a>이진환</a>
+ <img src="https://user-images.githubusercontent.com/88388142/178379746-a1a8fa3b-331d-4325-816c-9e3cdc947de3.jpg" width="20%" height="30%"> <a>한수호</a>
 </table>
 
 <h2>프로젝트 개요</h2>
