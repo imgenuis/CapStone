@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/minjuns449@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
 
 <h3>송종백</h3>
-<img src="https://user-images.githubusercontent.com/88388142/178379444-033105b3-42a4-4626-977d-8008c14f844e.jpg" width="20%" height="30%"><br>
+<img src="https://user-images.githubusercontent.com/88388142/178386246-5d3a0fb6-8c33-48d6-bf84-b92a7c0d495f.jpg" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <a>앱 개발</a><br>
 <img src="https://img.shields.io/badge/song91771212@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
