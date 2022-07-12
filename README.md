@@ -1,11 +1,17 @@
 <h1>Team  송스톤</h1>
 
 <h2>팀 소개</h2>
-<table><tr><td><img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"></td><td><img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%"></td></tr></table>
+<table>
+ <img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"> 
+ <img src="https://user-images.githubusercontent.com/88388142/178379444-033105b3-42a4-4626-977d-8008c14f844e.jpg" width="20%" height="30%">
+ <img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%">
+ <img src="https://user-images.githubusercontent.com/88388142/178379714-35583f73-54f0-4846-aa0c-3e334925b4b6.jpg" width="20%" height="30%">
+ <img src="https://user-images.githubusercontent.com/88388142/178379746-a1a8fa3b-331d-4325-816c-9e3cdc947de3.jpg" width="20%" height="30%">
+</table>
 
 <h2>프로젝트 개요</h2>
   <h3>프로젝트 주제</h3>
-    태양광 전지를 이용한 다목적 스마트팜
+    <a>태양광 전지를 이용한 다목적 스마트팜</a>
   <h3>개발동기</h3>
   <a>많은 농업 가구가 스마트 팝 보급을 필요로 하고 있으며 국가에서도 스마트 팜에 대한 관심이 있는 것으로 알려졌다.<br>
 하지만 현존하는 스마트 팜은 센서 오류, 설치비용, 과도한 전력사용 등 많은 문제를 동반하고 있다.
