@@ -5,6 +5,7 @@
 <img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%">
 <a><b>역할</b></a><br>
 <a>자료 수집 및 정리</a><br>
+<a>외형 제작 및 </a>
 <br><img src="https://img.shields.io/badge/junhurk1216@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
 
 <h3>신민준</h3>
@@ -29,6 +30,7 @@
 <img src="https://user-images.githubusercontent.com/88388142/178379746-a1a8fa3b-331d-4325-816c-9e3cdc947de3.jpg" width="20%" height="30%">
 <a><b>역할</b></a><br>
 <a>아두이노 코드 제작</a><br>
+<a>외형 설계</a>
 <a>깃허브 제작</a><br>
 <br><img src="https://img.shields.io/badge/jsuho7321j@naver.com-FFFFFF?style=flat-square&logo=naver&logoColor="/>
 
