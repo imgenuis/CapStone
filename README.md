@@ -1,9 +1,7 @@
 <h1>Team  송스톤</h1>
 
 <h2>팀 소개</h2>
-<img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%">
-
-<img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%">
+<table><tr><td><img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"></td><td><img src="https://user-images.githubusercontent.com/88388142/178174636-675af1d0-b9d5-4192-99a8-43e8ca7caae7.jpg" width="20%" height="30%"></td></tr></table>
 
 <h2>프로젝트 개요</h2>
   <h3>프로젝트 주제</h3>
