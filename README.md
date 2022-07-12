@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/88388142/178174476-7c0ec638-90a0-4ad0-a5ae-c3c024dbf99b.jpg" width="20%" height="30%"><br>
 <a><b>역할</b></a><br>
 <a>자료 수집 및 정리</a><br>
-<a>외형 제작 및 </a>
+<a>외형 제작 및 설계</a><br>
 <img src="https://img.shields.io/badge/junhurk1216@gmail.com-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
 
 <h3>신민준</h3>
